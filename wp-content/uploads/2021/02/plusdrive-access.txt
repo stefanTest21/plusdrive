@@ -1,0 +1,9 @@
+PLUSDRIVE website: 
+=================
+
+WordPress access:
+----------------
+Database: plusdrive_db
+Username: 2021_plusdrive_admin
+Password: kNFFHh^HFjSc38mgqy
+Email: stefan.pavlovic.test@gmail.com
